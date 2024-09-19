@@ -1,4 +1,7 @@
 # WindowsGSM.VintageStory
+![GitHub Release](https://img.shields.io/github/v/release/Soulflare3/WindowsGSM.VintageStory)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Soulflare3/WindowsGSM.VintageStory/total)
+
 🧩 A plugin version of the Vintage Story Dedicated server for WindowsGSM
 
 ## Requirements
